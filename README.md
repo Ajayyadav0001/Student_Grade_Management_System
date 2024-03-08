@@ -9,18 +9,20 @@ In this module we have to enter roll number to see user or student result. When 
 In this module we can add new student and add new result. If we want to add an existing roll number or student details then we get error message.we can also see student details and student result.
 
 ## ScreenShots
+
+## Overview
+The Student Result Management System is a Java(JFrame,Netbeans,IDE,Mysql,Database)based application designed to efficiently manage and organize student results. With a robust backend powered by a SQL database, this project provides an intuitive interface for administrators and teachers to handle student records, grades, and generate insightful reports.
+![Screenshot 2024-03-08 202837](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/aa0dc2e0-c522-4606-9b61-cb7550b6474d)
+
 Student Login	Result
 
-	![Screenshot 2024-03-08 202817](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/9a128efc-5e01-4bf9-9a03-c9db50d59135)
+![Screenshot 2024-03-08 202817](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/21fc15b6-8d17-4137-be2f-e8344c38f782)
 
 All Result	Home Page
 ![Screenshot 2024-03-08 203049](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/febcd6bc-740d-4b6e-94c7-a87e04816599)	
 Admin Login	Add Student
 ![Screenshot 2024-03-08 202947](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/123d457d-3002-4ed7-8ace-3cff7da4cc72)
 
-## Overview
-The Student Result Management System is a Java(JFrame,Netbeans,IDE,Mysql,Database)based application designed to efficiently manage and organize student results. With a robust backend powered by a SQL database, this project provides an intuitive interface for administrators and teachers to handle student records, grades, and generate insightful reports.
-![Screenshot 2024-03-08 202837](https://github.com/Ajayyadav0001/Student_Result_Management_System/assets/131473262/aa0dc2e0-c522-4606-9b61-cb7550b6474d)
 
 ## Features
 User Authentication:
